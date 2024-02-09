@@ -3,7 +3,7 @@
 - 👀 Interests: Programming, Mathematics, Finance, and Economics
 - 🖥️ Work-experience: built end-to-end machine-learning, augmented reality prototypes.
 - 🤖 Programming Languages: C#, C++, C, Python, JavaScript
-- 🗺️ Currently exploring .net ecosystem
+- 🗺️ Currently exploring intersection of backend engineering and machine learning.
 - 📫 How to reach me: yash.pedireddi@gmail.com
 
 <!---
