@@ -2,8 +2,8 @@
 - 📚 Education: National Institute of Technology Patna India, University of Nottingham UK
 - 👀 Interests: Programming, Mathematics, Finance, and Economics
 - 🖥️ Work-experience: built end-to-end machine-learning, augmented reality prototypes.
-- 🤖 Programming Languages: C#, C++, C, Python, JavaScript
-- 🗺️ Currently exploring intersection of backend engineering and machine learning.
+- 🤖 Programming Languages: C#, C++, C, Python
+- 🗺️ Currently exploring low level programming and machine learning.
 - 📫 How to reach me: yash.pedireddi@gmail.com
 
 <!---
